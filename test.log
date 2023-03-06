@@ -1,0 +1,5 @@
+2023-01-31 15:28:08,624 - test_logger - DEBUG - World War I
+2023-01-31 20:28:00,629 - test_logger - DEBUG - found result is World War I
+2023-02-01 21:34:01,154 - test_logger - DEBUG - found result is World War I
+2023-02-01 21:34:28,846 - test_logger - INFO - json converted to internal <class 'list'>
+2023-02-01 21:36:04,251 - test_logger - INFO - json converted to internal <class 'requests.models.Response'>
